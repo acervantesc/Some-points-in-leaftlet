@@ -1,0 +1,23 @@
+body {
+	color: white;
+	font-family: Helvetica;
+  	padding: 10px;
+  	background-color: black;
+  }
+
+#map {
+  height: 600px;
+}
+
+h2{
+	color: gray;
+	font-size: 30px;
+	padding-top: 0px;
+	font-family: Helvetica;
+}
+
+p{
+
+	font-size: 20px;
+	padding-top: 0px;
+}
